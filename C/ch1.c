@@ -1,6 +1,9 @@
 #include <stdio.h>
 
 int main(void) {
-	printf("Hello World\n");
+	char str[256];
+	scanf_s("%s", str, (unsigned int)sizeof(str));
+	printf("%s\n", str);
+
 	return 0;
 }
