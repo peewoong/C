@@ -13,7 +13,7 @@ int getEmptyPos();
 int findX(int x);
 int findY(int y);
 
-int main(void) {
+int main5(void) {
 	int input;
 	srand((unsigned int)time(NULL));
 	initArray();

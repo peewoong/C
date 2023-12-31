@@ -51,5 +51,8 @@
     <ClCompile Include="ch8Project2.c">
       <Filter>소스 파일\ch8 다차원배열</Filter>
     </ClCompile>
+    <ClCompile Include="ch9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
