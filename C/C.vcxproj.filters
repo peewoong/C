@@ -13,31 +13,43 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\ch8 다차원배열">
+      <UniqueIdentifier>{38ec062d-7f7d-426c-bc8d-77a08e4e99e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\~ch7.pointer">
+      <UniqueIdentifier>{b7b531d4-895d-4c76-922c-1bc0f57bb694}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ch1.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\~ch7.pointer</Filter>
     </ClCompile>
     <ClCompile Include="ch2.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\~ch7.pointer</Filter>
     </ClCompile>
     <ClCompile Include="ch3.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\~ch7.pointer</Filter>
     </ClCompile>
     <ClCompile Include="ch4.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\~ch7.pointer</Filter>
     </ClCompile>
     <ClCompile Include="ch5.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\~ch7.pointer</Filter>
     </ClCompile>
     <ClCompile Include="pointer.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\~ch7.pointer</Filter>
     </ClCompile>
     <ClCompile Include="pointerProject.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\~ch7.pointer</Filter>
     </ClCompile>
     <ClCompile Include="pointerProject2.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\~ch7.pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8Project.c">
+      <Filter>소스 파일\ch8 다차원배열</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8Project2.c">
+      <Filter>소스 파일\ch8 다차원배열</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
