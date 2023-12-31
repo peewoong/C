@@ -4,15 +4,15 @@ void swap(int a, int b);
 void swap_addr(int * a, int * b);
 void changeArray(int* ptr);
 
-int main(void) {
-	int arr2[3] = { 10, 20, 30 };
-	changeArray(arr2);
-	for (int i = 0; i < 3; ++i) {
-		printf("%d\n", arr2[i]);
-	}
-
-	return 0;
-}
+//int main(void) {
+//	int arr2[3] = { 10, 20, 30 };
+//	changeArray(arr2);
+//	for (int i = 0; i < 3; ++i) {
+//		printf("%d\n", arr2[i]);
+//	}
+//
+//	return 0;
+//}
 
 //int main(void) {
 //	int a = 10;

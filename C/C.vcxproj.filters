@@ -30,5 +30,11 @@
     <ClCompile Include="ch5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointerProject.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
