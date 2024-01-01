@@ -16,7 +16,7 @@ void initCats();
 void printCat(int selected);
 int checkCollection();
 
-int main(void) {
+int main7(void) {
 	srand(time(NULL));
 	initCats();
 

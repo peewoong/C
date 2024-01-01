@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ch1.c" />
+    <ClCompile Include="ch10.c" />
     <ClCompile Include="ch2.c" />
     <ClCompile Include="ch3.c" />
     <ClCompile Include="ch4.c" />
@@ -136,6 +137,7 @@
     <ClCompile Include="ch8Project2.c" />
     <ClCompile Include="ch9.c" />
     <ClCompile Include="ch9project.c" />
+    <ClCompile Include="ch9project2.c" />
     <ClCompile Include="pointer.c" />
     <ClCompile Include="pointerProject.c" />
     <ClCompile Include="pointerProject2.c" />
